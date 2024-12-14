@@ -18,7 +18,7 @@ termux-setup-storage
  ```
  sudo python wifi-hack/Wildev-Wifi.py -i wlan0 -K
  ```
-## [Download Termux aplikasi]([https://termux.com/](https://f-droid.org/repo/com.termux_118.apk))
+## DOWNLOAD TERMINAL TERMUX COMMAND [https://termux.com/](https://f-droid.org/repo/com.termux_118.apk))
 
 
 # Usage
