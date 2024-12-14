@@ -23,7 +23,7 @@ termux-setup-storage
 
 # Usage
 ```
- FARHAN-WIFI-2.0.py <arguments>
+ Wildev-WIFI-2.0.py <arguments>
  Required arguments:
      -i, --interface=<wlan0>  : Name of the interface to use
 
