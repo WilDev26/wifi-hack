@@ -16,7 +16,7 @@ termux-setup-storage
  ```
 #### Running
  ```
- sudo python WILDEV-WIFI/Wildev-Wifi.py -i wlan0 -K
+ sudo python wifi-hack/Wildev-Wifi.py -i wlan0 -K
  ```
 ## [Termux](https://termux.com/)
 
