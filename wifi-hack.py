@@ -30,7 +30,7 @@ print("""\033[1;32m
  \033[1;37mGithub  : Bagassamuji
  \033[1;37mWhatsapp : +6282138276519
  \033[1;31mOne line Command :
-\033[1;31msudo python WILDEV-WIFI/Wildev-Wifi -i wlan0 -K
+\033[1;31msudo python wifi-hack/wifi-hack.py  -i wlan0 -K
  \033[1;31mFor Help : WA-AND-TELEGRAM
 
  \033[1;31mNote : ROOT DEVICES ONLY
