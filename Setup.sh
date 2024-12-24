@@ -20,7 +20,5 @@ apt install -y root-repo
 apt install -y git tsu python wpa-supplicant pixiewps iw openssl
 termux-setup-storage
 wget -O wifi-hack.sh https://raw.githubusercontent.com/WilDev26/wifi-hack/refs/heads/main/wifi-hack.sh
-chmod +rwx Setup.sh
+chmod +rwx 
 clear
-echo -e '\e[1;37mDone!\e[0m'
-echo -e '\e[1;37mJalankan dengan mengetik: "./Setup.sh"\e[0m'
