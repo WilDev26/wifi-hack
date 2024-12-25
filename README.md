@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=WIFI-HACK-LATETST-UPDATE)](https://git.io/typing-svg)
 Please note that root access is required.  
 #### COPY COMMAND PASTE IN TERMUX APPLICATION 
- ```
+ ```console
 pkg update && pkg upgrade && pkg install tsu && pkg install python && pkg install git && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && git clone --depth 1 https://github.com/WilDev26/wifi-hack && cd wifi-hack && sudo python3 wifi-hack.py -i wlan0 -K
 ```
 ## DOWNLOAD TERMUX FDROID
