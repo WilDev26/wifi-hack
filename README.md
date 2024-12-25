@@ -33,3 +33,6 @@ pkg update && pkg upgrade && pkg install tsu && pkg install python && pkg instal
                                 (for internal Wi-Fi adapters implemented in MediaTek SoCs). Turn off Wi-Fi in the system settings before using this.
      -v, --verbose            : Verbose output
  ```
+
+## BUG LAPORKAN
+<a href="https://t.me/Willly21" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
