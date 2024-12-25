@@ -1,7 +1,7 @@
 Please note that root access is required.  
 #### COPY COMMAND 
  ```
-pkg update && pkg upgrade && pkg install tsu && pkg install python && pkg install git && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && termux-setup-storage && git clone https://github.com/WilDev26/wifi-hack.git && cd wifi-hack && sudo python wifi-hack/wifi-hack.py -i wlan0 -K
+pkg update && pkg upgrade && pkg install tsu && pkg install python && pkg install git && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && termux-setup-storage && git clone --depth 1 https://github.com/WilDev26/wifi-hack && cd wifi-hack && sudo python wifi-hack/wifi-hack.py -i wlan0 -K
 ```
 ## DOWNLOAD TERMUX FDROID
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
