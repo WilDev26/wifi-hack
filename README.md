@@ -9,7 +9,7 @@ pkg update && pkg upgrade && pkg install tsu && pkg install python && pkg instal
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 
 # Usage
-```
+```makefile
  Wildev-WIFI-2.0.py <arguments>
  Required arguments:
      -i, --interface=<wlan0>  : Name of the interface to use
