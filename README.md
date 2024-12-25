@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WIFI-HACK LATEST VERSION)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=WIFI-HACK-LATETST-UPDATE)](https://git.io/typing-svg)
 Please note that root access is required.  
 #### COPY COMMAND PASTE IN TERMUX APPLICATION 
  ```
