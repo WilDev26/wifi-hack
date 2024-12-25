@@ -36,3 +36,5 @@ pkg update && pkg upgrade && pkg install tsu && pkg install python && pkg instal
 
 ## BUG LAPORKAN
 <a href="https://t.me/Willly21" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
